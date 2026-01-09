@@ -1,0 +1,101 @@
+Name,W%,D%,L%,Usage
+"Ash Blossom & Joyous Spring",null,3.47%,46.84%,78.04%
+"Droll & Lock Bird",50.43%,3.21%,46.36%,73.16%
+"Mulcharmy Fuwalos",50.61%,3.12%,46.27%,67.3%
+"Called by the Grave",49.73%,3.4%,46.87%,64.54%
+"S:P Little Knight",50.65%,3.36%,45.99%,56.98%
+"Harpie's Feather Duster",49.12%,3.5%,47.38%,52.27%
+"Triple Tactics Talent",50.02%,3.31%,46.67%,51.4%
+"Infinite Impermanence",48.61%,3.73%,47.66%,49.66%
+"Nibiru, the Primal Being",50.02%,3.47%,46.51%,49.13%
+"Lightning Storm",49.73%,3.42%,46.85%,38.19%
+"Ghost Belle & Haunted Mansion",51.79%,3.04%,45.17%,37.86%
+"Evenly Matched",49.39%,3.41%,47.2%,36.28%
+"Dark Ruler No More",50.03%,3.28%,46.69%,35.3%
+"Triple Tactics Thrust",50.19%,3.23%,46.58%,34.67%
+"Super Starslayer TY-PHON - Sky Crisis",50.37%,3.4%,46.23%,34.54%
+"Forbidden Droplet",49.5%,3.36%,47.13%,30.96%
+"Mulcharmy Purulia",51.22%,2.92%,45.85%,26.73%
+"Super Polymerization",48.18%,3.75%,48.07%,24.21%
+"Solemn Judgment",50.29%,3.1%,46.61%,23.25%
+"Garura, Wings of Resonant Life",48.78%,3.63%,47.59%,22.85%
+"Bystial Magnamhut",50.81%,3.4%,45.79%,21.1%
+"Effect Veiler",49.19%,3.86%,46.95%,21.08%
+"Raigeki",47.68%,3.77%,48.55%,19.16%
+"Crossout Designator",49.59%,3.43%,46.98%,18.93%
+"Artifact Lancea",50.57%,3.17%,46.27%,18.57%
+"I:P Masquerena",49.89%,3.49%,46.62%,18.54%
+"Pot of Prosperity",50.79%,3.08%,46.13%,18.04%
+"Mudragon of the Swamp",48.99%,3.57%,47.44%,18.02%
+"Divine Arsenal AA-ZEUS - Sky Thunder",49.19%,3.62%,47.2%,17.48%
+"Dimensional Barrier",50.85%,3.24%,45.92%,15.37%
+"Bystial Druiswurm",50.15%,3.4%,46.45%,14.57%
+"Terraforming",48.04%,3.52%,48.44%,14.47%
+"Retaliating "C"",53.11%,2.51%,44.39%,12.94%
+"Secreterion Dragon",53.13%,3.1%,43.77%,12.79%
+"Foolish Burial",47.47%,3.92%,48.61%,12.63%
+"Anti-Spell Fragrance",51.26%,2.72%,46.02%,12.55%
+"Hieratic Seal of the Heavenly Spheres",51.18%,3.59%,45.23%,12.15%
+"Dominus Impulse",51.18%,3.04%,45.78%,11.81%
+"Albion the Branded Dragon",50.57%,3.43%,46%,11.63%
+"Lava Golem",48.04%,3.77%,48.19%,11.38%
+"Kashtira Fenrir",51.07%,3.48%,45.45%,10.99%
+"Number 41: Bagooska the Terribly Tired Tapir",48.49%,3.52%,47.99%,10.77%
+"Herald of the Arc Light",50.98%,3.17%,45.85%,10.65%
+"Salamangreat Almiraj",52.36%,2.78%,44.86%,10.41%
+"Mulcharmy Meowls",51.95%,2.62%,45.43%,10.31%
+"Spirit with Eyes of Blue",51.47%,3.68%,44.85%,10.29%
+"Fallen of Albaz",50.8%,3.52%,45.68%,10.12%
+"K9-17 "Ripper"",51.75%,3.1%,45.15%,9.96%
+"Mirrorjade the Iceblade Dragon",50.38%,3.71%,45.91%,9.71%
+""A Case for K9"",53.23%,2.93%,43.84%,9.66%
+"Ghost Ogre & Snow Rabbit",48.52%,3.81%,47.66%,9.64%
+"K9-17 Izuna",51.99%,3.02%,44.99%,9.61%
+"Branded Fusion",51.05%,3.54%,45.41%,9.61%
+"Link Spider",52.38%,2.91%,44.71%,9.52%
+"K9-ØØ Lupis",51.98%,3.06%,44.96%,9.51%
+"Dracotail Arthalion",53.98%,3.09%,42.93%,9.43%
+"Rahu Dracotail",55.19%,3.11%,41.7%,9.41%
+"Dimension Shifter",51.75%,2.91%,45.35%,9.4%
+"Accesscode Talker",48.26%,3.57%,48.17%,9.36%
+"There Can Be Only One",49.84%,3.39%,46.77%,9.28%
+"Ketu Dracotail",54.51%,3.14%,42.35%,9.08%
+"Dracotail Urgula",54.64%,3.12%,42.24%,9.07%
+"Mitsurugi Prayers",52.83%,2.88%,44.29%,9.03%
+"Dracotail Pan",55.05%,3.11%,41.84%,8.99%
+"Dracotail Mululu",54.79%,3.14%,42.07%,8.98%
+"K9-66a Jokul",52.47%,3.06%,44.47%,8.98%
+"Mitsurugi Ritual",52.69%,2.9%,44.41%,8.98%
+"Ame no Habakiri no Mitsurugi",52.7%,2.89%,44.4%,8.96%
+"Underworld Goddess of the Closed World",48.72%,3.52%,47.77%,8.95%
+"The Black Goat Laughs",50.82%,3.13%,46.05%,8.95%
+"Solemn Strike",47.91%,3.85%,48.24%,8.93%
+"Ame no Murakumo no Mitsurugi",52.65%,2.91%,44.44%,8.92%
+"Dracotail Lukias",54.84%,3.12%,42.05%,8.84%
+"Blazing Cartesia, the Virtuous",51.51%,3.53%,44.96%,8.83%
+"Dracotail Flame",54.16%,3.19%,42.65%,8.82%
+"Lubellion the Searing Dragon",50.78%,3.6%,45.62%,8.78%
+"Dracotail Faimena",54.2%,3.19%,42.61%,8.76%
+"Mitsurugi no Mikoto, Saji",52.55%,2.91%,44.55%,8.74%
+"Dracotail Gulamel",54.23%,3.19%,42.57%,8.74%
+"Titaniklad the Ash Dragon",49.8%,3.65%,46.55%,8.66%
+"K9-66b Lantern",52.09%,3.08%,44.83%,8.6%
+"Chaos Angel",48.08%,3.65%,48.27%,8.53%
+"Dracotail Horn",54.37%,3.2%,42.43%,8.46%
+"Yummy★Snatchy",52.79%,2.84%,44.37%,8.39%
+"Skill Drain",47.11%,3.79%,49.1%,8.39%
+"Vallon, the Super Psy Skyblaster",51.98%,3.01%,45.01%,8.09%
+"Pre-Preparation of Rites",53.4%,2.81%,43.78%,8.08%
+"Lollipo☆Yummy",54.11%,2.76%,43.13%,7.99%
+"Cooky☆Yummy",54.13%,2.78%,43.09%,7.93%
+"The Fallen & The Virtuous",51.03%,3.05%,45.92%,7.84%
+"Mitsurugi Mirror",52.89%,2.78%,44.33%,7.68%
+"Dominus Purge",52.01%,3.05%,44.94%,7.64%
+"The Zombie Vampire",50.11%,3.08%,46.8%,7.6%
+"K9-X "Werewolf"",52.05%,3.19%,44.76%,7.56%
+"Sky Striker Mobilize - Engage!",51.93%,3.32%,44.74%,7.51%
+"Yummy☆Surprise",53.47%,2.86%,43.67%,7.47%
+"The Bystial Lubellion",47.8%,3.98%,48.22%,7.43%
+"D/D/D Wave High King Caesar",48.96%,3.43%,47.6%,7.41%
+"K9-X Forced Release",52.01%,3.17%,44.83%,7.41%
+"Book of Eclipse",49.09%,3.61%,47.29%,7.34%
